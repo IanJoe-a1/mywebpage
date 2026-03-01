@@ -4708,3 +4708,14 @@ input, select, textarea {
       }
 
   }
+
+      }
+         /* This forces bullets to show up specifically for your links list */
+         .links {
+         list-style-type: disc !important;
+         padding-left: 20px; /* You need padding, or the dots will be off-screen */
+  }
+
+         .links li {
+         display: list-item; /* Ensures the browser treats them as list items */
+      }
