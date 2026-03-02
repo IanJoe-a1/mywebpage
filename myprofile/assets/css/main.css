@@ -4687,7 +4687,7 @@ input, select, textarea {
 			visibility: visible;
 		}
 
-	}
+	
             /* Center Video and Align with Text */
            .content-wrapper {
            max-width: 800px; /* Adjust this to match your text width */
@@ -4706,3 +4706,4 @@ input, select, textarea {
          height: 100%;
          border: none;
       }
+
